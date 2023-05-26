@@ -36,4 +36,3 @@ function viewBlockchain() {
     blockchainList.appendChild(listItem);
   });
 }
-
